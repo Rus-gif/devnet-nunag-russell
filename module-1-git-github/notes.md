@@ -21,8 +21,7 @@
 
 ## Walking through what I did
 
-[Describe, step by step, a real branch → commit → push → PR you did. Include the actual commands you used.]
-
+I started by creating or using a Git repository and checking the current branch. I then created a separate branch so I could work on my changes without directly changing the main branch. After making changes to the files, I added the changes, committed them, and pushed the branch to GitHub. From GitHub, I created a pull request so the branch could be reviewed and eventually merged.
 ```
 git checkout -b feature-branch
 git add . 
